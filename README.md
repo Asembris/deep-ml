@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 19 problems · 4 labs · 0 math
+**26** solved · 22 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-09-16 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-15 | [solution](problems/0083-dot-product-calculator) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-17 | [solution](problems/0147-gelu-activation-function) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-03-24 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-09-16 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-09-17 | [solution](problems/0102-implement-the-swish-activation-function) |
@@ -25,12 +26,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-16 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-16 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-16 | [solution](problems/0087-adam-optimizer) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-03-24 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-03-21 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-15 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-09-17 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-17 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Parallel Attention and FFN Transformer Block](https://www.deep-ml.com/problems/1043) | medium | 2026-09-16 | [solution](problems/1043-parallel-attention-and-ffn-transformer-block) |
 | [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-09-17 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-03-24 | [solution](problems/0094-implement-multi-head-attention) |
 
 ## Labs
 

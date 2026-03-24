@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:55:36.455Z",
+  "generated_at": "2026-09-17T16:55:38.030Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -299,6 +299,45 @@
       "last_pushed_at": "2026-03-21T11:37:44.819Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-03-24T12:39:52.393Z",
+      "last_pushed_at": "2026-03-24T12:39:52.393Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-03-24T16:38:16.210Z",
+      "last_pushed_at": "2026-03-24T16:38:16.210Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-03-24T16:43:55.259Z",
+      "last_pushed_at": "2026-03-24T16:43:55.259Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
