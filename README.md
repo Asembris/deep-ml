@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 23 problems · 4 labs · 0 math
+**28** solved · 24 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-09-17 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-09-16 | [solution](problems/0264-implement-the-tanh-activation-function) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-05-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-16 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-16 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-16 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
