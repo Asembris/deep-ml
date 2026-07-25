@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 25 problems · 4 labs · 0 math
+**30** solved · 26 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Attention and FFN Transformer Block](https://www.deep-ml.com/problems/1043) | medium | 2026-09-16 | [solution](problems/1043-parallel-attention-and-ffn-transformer-block) |
 | [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-09-17 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-03-24 | [solution](problems/0094-implement-multi-head-attention) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-07-25 | [solution](problems/0085-positional-encoding-calculator) |
 
 ## Labs
 
