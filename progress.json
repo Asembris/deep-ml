@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:55:44.426Z",
+  "generated_at": "2026-09-17T16:55:45.976Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -390,6 +390,63 @@
       "last_pushed_at": "2026-07-25T12:33:01.280Z",
       "language": "python",
       "lines": 6
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-07T18:50:55.255Z",
+      "last_pushed_at": "2026-09-07T18:50:55.255Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-09-07T19:08:48.172Z",
+      "last_pushed_at": "2026-09-07T19:08:48.172Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-09-07T19:28:24.406Z",
+      "last_pushed_at": "2026-09-07T19:28:24.406Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-09-07T19:41:03.407Z",
+      "last_pushed_at": "2026-09-07T19:41:03.407Z"
+    },
+    "problem:1034": {
+      "kind": "problem",
+      "id": "1034",
+      "title": "Chat Template Encoding for Instruct Models",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1034",
+      "path": "problems/1034-chat-template-encoding-for-instruct-models",
+      "first_solved_at": "2026-09-07T19:44:11.536Z",
+      "last_pushed_at": "2026-09-07T19:44:11.536Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
