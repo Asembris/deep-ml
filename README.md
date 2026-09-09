@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 27 problems · 4 labs · 4 math
+**37** solved · 29 problems · 4 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,7 +31,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chat Template Encoding for Instruct Models](https://www.deep-ml.com/problems/1034) | medium | 2026-09-07 | [solution](problems/1034-chat-template-encoding-for-instruct-models) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-03-25 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-03-24 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-09-09 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-03-21 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-09-09 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-15 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-09-17 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-17 | [solution](problems/0316-mmlu-log-probability-scoring) |
