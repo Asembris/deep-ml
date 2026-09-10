@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:55:47.742Z",
+  "generated_at": "2026-09-17T16:55:49.262Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -473,6 +473,58 @@
       "last_pushed_at": "2026-09-09T21:36:19.922Z",
       "language": "python",
       "lines": 58
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-09-10T00:17:52.356Z",
+      "last_pushed_at": "2026-09-10T00:17:52.356Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:375": {
+      "kind": "problem",
+      "id": "375",
+      "title": "Learned Positional Embeddings",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/375",
+      "path": "problems/0375-learned-positional-embeddings",
+      "first_solved_at": "2026-09-10T00:44:56.085Z",
+      "last_pushed_at": "2026-09-10T00:44:56.085Z",
+      "language": "python",
+      "lines": 21
+    },
+    "lab:19": {
+      "kind": "lab",
+      "id": "19",
+      "title": "Build a Tokenizer for Language Modeling",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/labs/19",
+      "path": "labs/0019-build-a-tokenizer-for-language-modeling",
+      "first_solved_at": "2026-09-10T01:42:49.831Z",
+      "last_pushed_at": "2026-09-10T01:42:49.831Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-10T01:46:19.402Z",
+      "last_pushed_at": "2026-09-10T01:46:19.402Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

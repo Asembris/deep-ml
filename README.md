@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 29 problems · 4 labs · 4 math
+**41** solved · 31 problems · 6 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,9 +23,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-09-17 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-09-16 | [solution](problems/0264-implement-the-tanh-activation-function) |
+| [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-09-10 | [solution](problems/0375-learned-positional-embeddings) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-05-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-16 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-16 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-10 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-16 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-16 | [solution](problems/0087-adam-optimizer) |
 | [Chat Template Encoding for Instruct Models](https://www.deep-ml.com/problems/1034) | medium | 2026-09-07 | [solution](problems/1034-chat-template-encoding-for-instruct-models) |
@@ -47,9 +49,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-09-15 | [solution](labs/0009-design-your-own-activation-function) |
+| [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-09-10 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-09-15 | [solution](labs/0010-design-your-own-attention-mechanism) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-16 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-09-16 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-09-10 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math
 
