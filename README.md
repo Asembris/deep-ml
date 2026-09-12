@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 32 problems · 6 labs · 4 math
+**43** solved · 33 problems · 6 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-09-16 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-09-11 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
+| [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-09-12 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-09-17 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-09-16 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-09-10 | [solution](problems/0375-learned-positional-embeddings) |
