@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:55:52.536Z",
+  "generated_at": "2026-09-17T16:55:54.043Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -551,6 +551,32 @@
       "last_pushed_at": "2026-09-12T20:15:29.083Z",
       "language": "python",
       "lines": 13
+    },
+    "lab:6": {
+      "kind": "lab",
+      "id": "6",
+      "title": "MNIST: Build Neural Network from Scratch (NumPy Only)",
+      "difficulty": "hard",
+      "category": "Neural Network Fundamentals",
+      "url": "https://www.deep-ml.com/labs/6",
+      "path": "labs/0006-mnist-build-neural-network-from-scratch-numpy-only",
+      "first_solved_at": "2026-09-13T11:50:06.915Z",
+      "last_pushed_at": "2026-09-13T11:50:06.915Z",
+      "language": "python",
+      "lines": 79
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-13T21:34:47.338Z",
+      "last_pushed_at": "2026-09-13T21:34:47.338Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

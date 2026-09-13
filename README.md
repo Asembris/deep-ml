@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 33 problems · 6 labs · 4 math
+**45** solved · 34 problems · 7 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-07-22 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-09-15 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-09-16 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-13 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-15 | [solution](problems/0083-dot-product-calculator) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-17 | [solution](problems/0147-gelu-activation-function) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-03-24 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
@@ -55,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-09-15 | [solution](labs/0010-design-your-own-attention-mechanism) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-16 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-09-16 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-09-13 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-09-10 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math
