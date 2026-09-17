@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:55:55.765Z",
+  "generated_at": "2026-09-17T16:55:57.714Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -400,7 +400,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-07T18:50:55.255Z",
-      "last_pushed_at": "2026-09-07T18:50:55.255Z"
+      "last_pushed_at": "2026-09-17T16:55:57.712Z"
     },
     "math:24": {
       "kind": "math",
@@ -411,7 +411,7 @@
       "url": "https://www.deep-ml.com/math-problems/24",
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-07T19:08:48.172Z",
-      "last_pushed_at": "2026-09-07T19:08:48.172Z"
+      "last_pushed_at": "2026-09-17T16:55:57.712Z"
     },
     "math:25": {
       "kind": "math",
@@ -422,7 +422,7 @@
       "url": "https://www.deep-ml.com/math-problems/25",
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-09-07T19:28:24.406Z",
-      "last_pushed_at": "2026-09-07T19:28:24.406Z"
+      "last_pushed_at": "2026-09-17T16:55:57.712Z"
     },
     "math:38": {
       "kind": "math",
@@ -433,7 +433,7 @@
       "url": "https://www.deep-ml.com/math-problems/38",
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-09-07T19:41:03.407Z",
-      "last_pushed_at": "2026-09-07T19:41:03.407Z"
+      "last_pushed_at": "2026-09-17T16:55:57.712Z"
     },
     "problem:1034": {
       "kind": "problem",
