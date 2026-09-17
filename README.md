@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 11 problems · 4 labs · 0 math
+**16** solved · 12 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-16 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-16 | [solution](problems/0087-adam-optimizer) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-15 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-09-17 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [Parallel Attention and FFN Transformer Block](https://www.deep-ml.com/problems/1043) | medium | 2026-09-16 | [solution](problems/1043-parallel-attention-and-ffn-transformer-block) |
 
 ## Labs
