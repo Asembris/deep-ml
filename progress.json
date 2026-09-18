@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:11:30.506Z",
+  "generated_at": "2026-09-18T23:08:43.979Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -681,6 +681,19 @@
       "last_pushed_at": "2026-09-18T11:11:28.730Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:390": {
+      "kind": "problem",
+      "id": "390",
+      "title": "Implement Multiquery Attention (MQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/390",
+      "path": "problems/0390-implement-multiquery-attention-mqa",
+      "first_solved_at": "2026-09-18T23:08:40.867Z",
+      "last_pushed_at": "2026-09-18T23:08:40.867Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
