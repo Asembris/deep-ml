@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 41 problems · 7 labs · 4 math
+**53** solved · 42 problems · 7 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-15 | [solution](problems/0083-dot-product-calculator) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-17 | [solution](problems/0147-gelu-activation-function) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-03-24 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-18 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-09-16 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-03-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-09-11 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
