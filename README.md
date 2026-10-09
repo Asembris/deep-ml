@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 62 problems · 8 labs · 4 math
+**75** solved · 63 problems · 8 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-09-15 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-09-16 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-13 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-09 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-15 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-21 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-17 | [solution](problems/0147-gelu-activation-function) |
