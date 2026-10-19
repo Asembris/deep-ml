@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 66 problems · 8 labs · 4 math
+**79** solved · 67 problems · 8 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-09-10 | [solution](problems/0375-learned-positional-embeddings) |
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-09-14 | [solution](problems/0377-linear-learning-rate-decay) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-05-25 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-19 | [solution](problems/0146-momentum-optimizer) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-19 | [solution](problems/1234-one-sgd-update-step) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-08 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-19 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
