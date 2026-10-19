@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 64 problems · 8 labs · 4 math
+**77** solved · 65 problems · 8 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-19 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-16 | [solution](problems/0087-adam-optimizer) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-08 | [solution](problems/0079-binomial-distribution-probability) |
+| [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-19 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-07 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-09-14 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
 | [Chat Template Encoding for Instruct Models](https://www.deep-ml.com/problems/1034) | medium | 2026-09-07 | [solution](problems/1034-chat-template-encoding-for-instruct-models) |
