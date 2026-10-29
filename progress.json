@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:04:00.179Z",
+  "generated_at": "2026-10-29T14:20:53.047Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1082,6 +1082,19 @@
       "last_pushed_at": "2026-10-29T14:03:59.061Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:958": {
+      "kind": "problem",
+      "id": "958",
+      "title": "Multi-Head Attention via Head Stacking",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/958",
+      "path": "problems/0958-multi-head-attention-via-head-stacking",
+      "first_solved_at": "2026-10-29T14:20:52.006Z",
+      "last_pushed_at": "2026-10-29T14:20:52.006Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
