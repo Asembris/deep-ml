@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 81 problems · 8 labs · 5 math
+**95** solved · 82 problems · 8 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Build Attention Mask from Pad Tokens](https://www.deep-ml.com/problems/1064) | easy | 2026-10-31 | [solution](problems/1064-build-attention-mask-from-pad-tokens) |
 | [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-09-17 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-19 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-09-20 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |

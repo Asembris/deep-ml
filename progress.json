@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:06:48.543Z",
+  "generated_at": "2026-10-31T08:11:11.835Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1212,6 +1212,19 @@
       "last_pushed_at": "2026-10-30T23:06:46.046Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:1064": {
+      "kind": "problem",
+      "id": "1064",
+      "title": "Build Attention Mask from Pad Tokens",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1064",
+      "path": "problems/1064-build-attention-mask-from-pad-tokens",
+      "first_solved_at": "2026-10-31T08:11:11.015Z",
+      "last_pushed_at": "2026-10-31T08:11:11.015Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
