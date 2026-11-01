@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:26:26.445Z",
+  "generated_at": "2026-11-01T21:33:43.449Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1264,6 +1264,19 @@
       "last_pushed_at": "2026-11-01T21:26:24.671Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1346": {
+      "kind": "problem",
+      "id": "1346",
+      "title": "Causal and Padding Masks with scaled_dot_product_attention",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1346",
+      "path": "problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention",
+      "first_solved_at": "2026-11-01T21:33:41.643Z",
+      "last_pushed_at": "2026-11-01T21:33:41.643Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
