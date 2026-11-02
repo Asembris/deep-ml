@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:43:18.617Z",
+  "generated_at": "2026-11-02T20:52:19.755Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1303,6 +1303,19 @@
       "last_pushed_at": "2026-11-02T20:43:16.733Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:1532": {
+      "kind": "problem",
+      "id": "1532",
+      "title": "Transformer Warmup Learning-Rate Schedule",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1532",
+      "path": "problems/1532-transformer-warmup-learning-rate-schedule",
+      "first_solved_at": "2026-11-02T20:52:18.166Z",
+      "last_pushed_at": "2026-11-02T20:52:18.166Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }

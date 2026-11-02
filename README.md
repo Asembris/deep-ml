@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 88 problems · 8 labs · 5 math
+**102** solved · 89 problems · 8 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-10 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-30 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-16 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
+| [Transformer Warmup Learning-Rate Schedule](https://www.deep-ml.com/problems/1532) | easy | 2026-11-02 | [solution](problems/1532-transformer-warmup-learning-rate-schedule) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-19 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-16 | [solution](problems/0087-adam-optimizer) |
 | [Bahdanau Additive Attention](https://www.deep-ml.com/problems/1383) | medium | 2026-10-29 | [solution](problems/1383-bahdanau-additive-attention) |
