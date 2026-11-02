@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 90 problems · 8 labs · 5 math
+**104** solved · 91 problems · 8 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-11-02 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [Build Attention Mask from Pad Tokens](https://www.deep-ml.com/problems/1064) | easy | 2026-10-31 | [solution](problems/1064-build-attention-mask-from-pad-tokens) |
 | [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-09-17 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-19 | [solution](problems/0036-calculate-accuracy-score) |
