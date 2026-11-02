@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:06:36.904Z",
+  "generated_at": "2026-11-02T21:11:07.803Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1342,6 +1342,17 @@
       "last_pushed_at": "2026-11-02T21:06:34.732Z",
       "language": "python",
       "lines": 12
+    },
+    "math:230": {
+      "kind": "math",
+      "id": "230",
+      "title": "Why Scale by sqrt(d_k)",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/230",
+      "path": "math/0230-why-scale-by-sqrt-d-k",
+      "first_solved_at": "2026-11-02T21:11:06.048Z",
+      "last_pushed_at": "2026-11-02T21:11:06.048Z"
     }
   }
 }
