@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**102** solved · 89 problems · 8 labs · 5 math
+**103** solved · 90 problems · 8 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-07 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-09-14 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
 | [Chat Template Encoding for Instruct Models](https://www.deep-ml.com/problems/1034) | medium | 2026-09-07 | [solution](problems/1034-chat-template-encoding-for-instruct-models) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-11-02 | [solution](problems/0151-dropout-layer) |
 | [Encoder-Decoder Cross-Attention](https://www.deep-ml.com/problems/1531) | medium | 2026-11-01 | [solution](problems/1531-encoder-decoder-cross-attention) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-11-01 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-14 | [solution](problems/0049-implement-adam-optimization-algorithm) |
