@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:11:07.803Z",
+  "generated_at": "2026-11-03T08:28:56.223Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1353,6 +1353,17 @@
       "path": "math/0230-why-scale-by-sqrt-d-k",
       "first_solved_at": "2026-11-02T21:11:06.048Z",
       "last_pushed_at": "2026-11-02T21:11:06.048Z"
+    },
+    "math:233": {
+      "kind": "math",
+      "id": "233",
+      "title": "Label Smoothing",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/233",
+      "path": "math/0233-label-smoothing",
+      "first_solved_at": "2026-11-03T08:28:55.983Z",
+      "last_pushed_at": "2026-11-03T08:28:55.983Z"
     }
   }
 }

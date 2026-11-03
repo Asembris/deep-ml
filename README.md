@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 91 problems · 8 labs · 6 math
+**106** solved · 91 problems · 8 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -123,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-10-29 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-07 | [solution](math/0024-information-theory-entropy) |
+| [Label Smoothing](https://www.deep-ml.com/math-problems/233) | medium | 2026-11-03 | [solution](math/0233-label-smoothing) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-07 | [solution](math/0038-log-likelihood-gradients) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-07 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Why Scale by sqrt(d_k)](https://www.deep-ml.com/math-problems/230) | medium | 2026-11-02 | [solution](math/0230-why-scale-by-sqrt-d-k) |
