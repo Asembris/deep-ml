@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:28:56.223Z",
+  "generated_at": "2026-11-11T19:53:13.882Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1364,6 +1364,19 @@
       "path": "math/0233-label-smoothing",
       "first_solved_at": "2026-11-03T08:28:55.983Z",
       "last_pushed_at": "2026-11-03T08:28:55.983Z"
+    },
+    "problem:224": {
+      "kind": "problem",
+      "id": "224",
+      "title": "Group Relative Advantage for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/224",
+      "path": "problems/0224-group-relative-advantage-for-grpo",
+      "first_solved_at": "2026-11-11T19:53:12.613Z",
+      "last_pushed_at": "2026-11-11T19:53:12.613Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
