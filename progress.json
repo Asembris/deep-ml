@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:53:13.882Z",
+  "generated_at": "2026-11-12T11:16:21.299Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1377,6 +1377,17 @@
       "last_pushed_at": "2026-11-11T19:53:12.613Z",
       "language": "python",
       "lines": 30
+    },
+    "math:595": {
+      "kind": "math",
+      "id": "595",
+      "title": "GRPO Instead of PPO: Group Scores in Place of a Value Model",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/math-problems/595",
+      "path": "math/0595-grpo-instead-of-ppo-group-scores-in-place-of-a-value-model",
+      "first_solved_at": "2026-11-12T11:16:21.016Z",
+      "last_pushed_at": "2026-11-12T11:16:21.016Z"
     }
   }
 }

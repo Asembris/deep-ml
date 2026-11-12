@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**107** solved · 92 problems · 8 labs · 7 math
+**108** solved · 92 problems · 8 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -123,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-10-29 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
+| [GRPO Instead of PPO: Group Scores in Place of a Value Model](https://www.deep-ml.com/math-problems/595) | medium | 2026-11-12 | [solution](math/0595-grpo-instead-of-ppo-group-scores-in-place-of-a-value-model) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-07 | [solution](math/0024-information-theory-entropy) |
 | [Label Smoothing](https://www.deep-ml.com/math-problems/233) | medium | 2026-11-03 | [solution](math/0233-label-smoothing) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-07 | [solution](math/0038-log-likelihood-gradients) |
