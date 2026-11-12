@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 94 problems · 8 labs · 8 math
+**111** solved · 95 problems · 8 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-19 | [solution](problems/0146-momentum-optimizer) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-19 | [solution](problems/1234-one-sgd-update-step) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-08 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [R1-Zero's Template and Format Reward](https://www.deep-ml.com/problems/2006) | easy | 2026-11-12 | [solution](problems/2006-r1-zero-s-template-and-format-reward) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-19 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-16 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Scaled Token Embedding Lookup](https://www.deep-ml.com/problems/1052) | easy | 2026-10-30 | [solution](problems/1052-scaled-token-embedding-lookup) |

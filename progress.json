@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:05:03.294Z",
+  "generated_at": "2026-11-12T22:28:29.258Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1414,6 +1414,19 @@
       "last_pushed_at": "2026-11-12T12:05:02.852Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:2006": {
+      "kind": "problem",
+      "id": "2006",
+      "title": "R1-Zero's Template and Format Reward",
+      "difficulty": "easy",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/2006",
+      "path": "problems/2006-r1-zero-s-template-and-format-reward",
+      "first_solved_at": "2026-11-12T22:28:26.984Z",
+      "last_pushed_at": "2026-11-12T22:28:26.984Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
