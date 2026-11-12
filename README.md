@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**108** solved · 92 problems · 8 labs · 8 math
+**109** solved · 93 problems · 8 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-09-16 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implement Weight Tying Between Embedding and LM Head](https://www.deep-ml.com/problems/1026) | easy | 2026-10-30 | [solution](problems/1026-implement-weight-tying-between-embedding-and-lm-head) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-11-12 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-09-18 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-09-10 | [solution](problems/0375-learned-positional-embeddings) |
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-09-14 | [solution](problems/0377-linear-learning-rate-decay) |

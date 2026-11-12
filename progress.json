@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:16:21.299Z",
+  "generated_at": "2026-11-12T11:40:15.056Z",
   "items": {
     "problem:376": {
       "kind": "problem",
@@ -1388,6 +1388,19 @@
       "path": "math/0595-grpo-instead-of-ppo-group-scores-in-place-of-a-value-model",
       "first_solved_at": "2026-11-12T11:16:21.016Z",
       "last_pushed_at": "2026-11-12T11:16:21.016Z"
+    },
+    "problem:225": {
+      "kind": "problem",
+      "id": "225",
+      "title": "KL Divergence Estimator for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/225",
+      "path": "problems/0225-kl-divergence-estimator-for-grpo",
+      "first_solved_at": "2026-11-12T11:40:14.749Z",
+      "last_pushed_at": "2026-11-12T11:40:14.749Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
